@@ -17,9 +17,19 @@ luxe
 0
 
 TravelWeb
+Sofia
 Hampton
 Shaga-213
 regular
 3
 40
 1
+
+TravelWeb
+Sofia
+Millenium
+Mahala-47
+half-luxe
+5
+212
+0

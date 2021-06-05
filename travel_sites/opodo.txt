@@ -24,3 +24,12 @@ vip
 3
 980
 0
+
+opodo
+Venice
+Plazza
+Riva-90
+vip
+2
+730
+1

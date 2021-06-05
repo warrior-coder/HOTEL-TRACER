@@ -18,7 +18,7 @@ luxe
 
 AllHotels
 Grodno
-Robinson_Club
+Robinson-Club
 Ozernaya-29
 vip
 2

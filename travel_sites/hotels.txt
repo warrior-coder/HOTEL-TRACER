@@ -24,3 +24,12 @@ regular
 4
 77
 1
+
+hotels
+Venice
+Antico
+San-Marco-37
+vip
+2
+445
+0
