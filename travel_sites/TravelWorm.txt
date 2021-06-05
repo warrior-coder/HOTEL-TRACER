@@ -5,7 +5,7 @@ Horn-132
 luxe
 4
 49
-0
+-1
 
 TravelWorm
 Saloniki
@@ -23,4 +23,4 @@ Horn-132
 half-luxe
 5
 52
-0
+-1

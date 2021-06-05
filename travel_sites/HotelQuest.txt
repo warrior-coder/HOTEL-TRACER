@@ -14,7 +14,7 @@ Palma-10
 luxe
 3
 899
-0
+-1
 
 HotelQuest
 Mogilev

@@ -5,7 +5,7 @@ Avenue-7
 luxe
 4
 345
-0
+-1
 
 opodo
 New-York
@@ -23,7 +23,7 @@ Centuty-598
 vip
 3
 980
-0
+-1
 
 opodo
 Venice

@@ -5,7 +5,7 @@ Rue-de-Amiral-44
 luxe
 6
 99
-0
+-1
 
 orbitz
 Paris
@@ -14,7 +14,7 @@ Wargam-8
 regular
 7
 99
-0
+-1
 
 orbitz
 Londin
@@ -32,4 +32,4 @@ Slivnica-75
 half-luxe
 4
 312
-0
+-1

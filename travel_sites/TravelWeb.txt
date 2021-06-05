@@ -14,7 +14,7 @@ Champions-42
 luxe
 3
 455
-0
+-1
 
 TravelWeb
 Sofia
@@ -32,4 +32,4 @@ Mahala-47
 half-luxe
 5
 212
-0
+-1

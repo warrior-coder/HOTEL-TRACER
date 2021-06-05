@@ -14,7 +14,7 @@ Albany-Rd-32
 regular
 4
 43
-0
+-1
 
 hotels
 Miami
@@ -32,4 +32,4 @@ San-Marco-37
 vip
 2
 445
-0
+-1

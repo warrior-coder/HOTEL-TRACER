@@ -5,7 +5,7 @@ Yakybovs-17
 half-luxe
 4
 35
-0
+-1
 
 AllHotels
 Minsk
@@ -23,5 +23,5 @@ Ozernaya-29
 vip
 2
 99
-0
+-1
 
